@@ -10,7 +10,7 @@ In diesem Repository erhalten Sie zusätzliches Material zum Buch "Programmieren
 
 ### Tipps zur Formulierung effektiver Prompts
 
-- Chain-of-Thought-Ansatz: https://chatgpt.com/share/001c7915-1229-4c59-8578-5e257fd5ac7d
+- Chain-of-Thought-Ansatz: https://chatgpt.com/share/6755d88f-e918-800c-afc0-91bcc73896dd
 - Kenntnis-Level definieren: https://chat.openai.com/share/be0173dc-f1ff-4e97-9b16-1fa89d3be6ca
 
 
@@ -40,7 +40,7 @@ In diesem Repository erhalten Sie zusätzliches Material zum Buch "Programmieren
 
 ### Code erklären
 
-- Algorithmus erklären lassen: https://chatgpt.com/share/6a42bdeb-a77b-44e8-b23f-83b4c1bef25f
+- Algorithmus erklären lassen: https://chatgpt.com/share/673a03cf-a6b0-800c-9749-f02563c8dce3
 - Unterschiedliche Erklärungslevels nutzen: https://chat.openai.com/share/f231a180-82c7-4d65-8dee-351d973afe00
 - Code umschreiben lassen: https://chatgpt.com/share/0bc6e80b-7f41-4464-a64a-3527b46b4a28
 
@@ -52,11 +52,10 @@ In diesem Repository erhalten Sie zusätzliches Material zum Buch "Programmieren
 
 ## Nützliche Links
 
-
-- Dokumentation des Chat-Completions-API von OpenAI (also der API für hauptsächlich textbasierte Chat-Kommunikation mit den GPT-Modellen): https://platform.openai.com/docs/guides/text-generation/chat-completions-api
-- Dokumentation der Text-to-Speach (TTS) API von OpenAI: https://platform.openai.com/docs/guides/text-to-speech
-- API-Referenz von OpenAI (zum Nachschlagen spezifischer Endpunkte/Funktionalitäten): https://platform.openai.com/docs/api-reference
-- Überblick über die zur Verfügung stehenden Modelle: https://platform.openai.com/docs/models
+- Einführung in die Chat-Completions-API von OpenAI (also der API für hauptsächlich textbasierte Chat-Kommunikation mit den GPT-Modellen): https://platform.openai.com/docs/guides/text-generation/chat-completions-api
+- Einführung in die Text-to-Speach (TTS) API von OpenAI: https://platform.openai.com/docs/guides/text-to-speech
+- Vollständige API-Referenz von OpenAI (zum Nachschlagen spezifischer Endpunkte/Funktionalitäten): https://platform.openai.com/docs/api-reference
+- Überblick über die zur Verfügung stehenden Modelle von OpenAI: https://platform.openai.com/docs/models
 - Preise der Open-AI-API https://openai.com/api/pricing
 - HumanEval-Datensatz, der zur Evaluation der Coding-Fähigkeiten verwendet wird: https://www.github.com/openai/human-eval
 
@@ -78,7 +77,7 @@ Der Autor freut sich über Anregungen, Vorschläge und natürlich Hinweise auf F
 
 - [E-Mail](https://veilmail.io/joachimzuckarelli)
 - [Web](https://www.zuckarelli.de)
-- [Twitter](https://twitter.com/jsugarelli)
+- [Twitter/X](https://x.com/jsugarelli)
 - [GitHub](https://github.com/jsugarelli)
 
 
