@@ -113,9 +113,10 @@ Joachim Zuckarelli hat Volkswirtschaftslehre an der Universität Mannheim studie
 
 Der Autor freut sich über Anregungen, Vorschläge und natürlich Hinweise auf Fehler jeder Art.
 
-- [E-Mail](https://veilmail.io/joachimzuckarelli)
-- [Web](https://www.zuckarelli.de)
+- [E-Mail](mailto:joachim@zuckarelli.de)
+- [Website](https://www.zuckarelli.de)
 - [Twitter/X](https://x.com/jsugarelli)
+- [LinkedIn](https://www.linkedin.com/in/joachim-zuckarelli/)
 - [GitHub](https://github.com/jsugarelli)
 
 
