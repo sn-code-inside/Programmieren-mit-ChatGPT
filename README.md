@@ -52,12 +52,50 @@ In diesem Repository erhalten Sie zusätzliches Material zum Buch "Programmieren
 
 ## Nützliche Links
 
+Im folgenden finden Sie eine Auswahl von Tools, Plattformen und Wissensquellen, die Sie bei der Programmierarbeit mit Large Language Models unterstützen können. Die meisten davon werden im Buch angesprochen.
+
+### Chatbots (Auswahl)
+- ChatGPT (OpenAI): https://chatgpt.com/
+- Claude (Anthropic): https://claude.ai/
+- Gemini (Google): https://gemini.google.com/
+
+### LLM-Frontends (Auswahl)
+- GPT4All: https://gpt4all.io/
+- Poe: https://poe.com/
+- LM Studio: https://lmstudio.ai/
+
+
+### Entwicklertools (Auswahl)
+
+#### Plugins
+- GitHub Copilot: https://github.com/features/copilot
+- Codium: https://www.codium.ai/
+- Cody: https://www.cody.com/
+  
+#### Integrated Development Environments (IDEs)
+- Cursor: https://www.cursor.com/
+
+#### Agenten
+- Devin: https://devin.ai/
+- Pythagora: https://www.pythagora.ai/
+- SWE Agent: https://swe-agent.com/
+
+### Plattformen (Auswahl)
+- Hugging Face (Open-Source-Modelle): https://huggingface.co/
+- Ollama (Open-Source-Modelle): https://ollama.ai/
+- OpenRouter (Zugriff auf APIs verschiedener LLM-Anbieter): https://openrouter.ai/
+
+### Benchmarks (Auswahl)
+- HumanEval-Datensatz, der zur Evaluation der Coding-Fähigkeiten verwendet wird: https://www.github.com/openai/human-eval
+- LMSYS Chatbot Arena: https://lmarena.ai/
+- SWE Benchmark: https://www.swebench.com/
+
+### OpenAI-API
 - Einführung in die Chat-Completions-API von OpenAI (also der API für hauptsächlich textbasierte Chat-Kommunikation mit den GPT-Modellen): https://platform.openai.com/docs/guides/text-generation/chat-completions-api
 - Einführung in die Text-to-Speach (TTS) API von OpenAI: https://platform.openai.com/docs/guides/text-to-speech
 - Vollständige API-Referenz von OpenAI (zum Nachschlagen spezifischer Endpunkte/Funktionalitäten): https://platform.openai.com/docs/api-reference
 - Überblick über die zur Verfügung stehenden Modelle von OpenAI: https://platform.openai.com/docs/models
 - Preise der Open-AI-API https://openai.com/api/pricing
-- HumanEval-Datensatz, der zur Evaluation der Coding-Fähigkeiten verwendet wird: https://www.github.com/openai/human-eval
 
 
 ## Errata / Addenda zum Buch
